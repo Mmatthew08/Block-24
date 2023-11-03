@@ -1,6 +1,7 @@
 import './App.css' ;
 import Navigation from './components/ Navigation' ;
 import Users from '../../components/users';
+import user from '../../components/user';
 
 function App(){
     return(
